@@ -123,10 +123,10 @@
 
     <!-- generic error message -->
 
-    <string name="exception_socket_timeout">連線逾時</string>
-    <string name="exception_socket">網路錯誤</string>
-    <string name="exception_io">I/O 錯誤</string>
-    <string name="exception_json">伺服器資料格式錯誤</string>
+    <string name="err_socket_timeout">連線逾時</string>
+    <string name="err_socket">網路錯誤</string>
+    <string name="err_io">I/O 錯誤</string>
+    <string name="err_json">伺服器資料格式錯誤</string>
 
     <!-- forget password dialog -->
 

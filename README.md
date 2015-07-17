@@ -20,7 +20,7 @@ Prefix        | Usage
 **category_** | book category name, used in bookshelf
 **drawer_**   | Title for panel drawer item
 **menu_**     | Title for popup menu item
-**error_**    | Error message
+**err_**      | System error message
 ...           | If there are other strings should be grouped, you can add common prefix to it
 
 Export to iOS strings
