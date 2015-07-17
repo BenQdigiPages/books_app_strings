@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="category_user_all">全部</string>
+    <string name="category_user_book">書籍</string>
+    <string name="category_user_magazine">雜誌</string>
+    <string name="category_user_trial">試閱</string>
+    <string name="category_user_custom1">自訂1</string>
+    <string name="category_user_custom2">自訂2</string>
+    <string name="category_user_custom3">自訂3</string>
+    <string name="category_user_custom4">自訂4</string>
+    <string name="category_user_custom5">自訂5</string>
+    <string name="category_user_private">密碼</string>
+    <string name="category_user_recent">最近閱讀</string>
+
+    <string name="category_book_title">書籍</string>
+    <string name="category_book_all">全部書籍</string>
+    <string name="category_book_business">商業理財</string>
+    <string name="category_book_language">語言電腦</string>
+    <string name="category_book_mental">心裡勵志醫療宗教</string>
+    <string name="category_book_art">藝術設計</string>
+    <string name="category_book_tour">生活風格旅遊飲食</string>
+    <string name="category_book_child">親子教養童書</string>
+
+    <string name="category_magazine_title">雜誌</string>
+    <string name="category_magazine_all">全部雜誌</string>
+    <string name="category_magazine_business">財經企管</string>
+    <string name="category_magazine_popular">流行時尚</string>
+    <string name="category_magazine_language">語言學習</string>
+    <string name="category_magazine_tour">旅遊情報</string>
+    <string name="category_magazine_art">藝術設計</string>
+    <string name="category_magazine_life">家庭生活</string>
+    <string name="category_magazine_photo">相機攝影</string>
+
+</resources>
