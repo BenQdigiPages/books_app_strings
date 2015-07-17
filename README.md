@@ -8,6 +8,33 @@ as submodule, for example:
 git submodule add https://github.com/BenQdigiPages/books_app_strings.git i18n
 ````
 
+Update strings to latest version
+--------------------------------
+
+The git submodule is actually bind to a particular commit, so it will not
+be updated automatically. If the strings has been modified in books_app_strings,
+you need to update strings for your project, you can do that with:
+
+````
+git submodule update --remote --merge i18n
+````
+
+Clone your project with submodules
+----------------------------------
+
+You need to add `--recursive` option when you clone the app project for Android or iOS:
+
+````
+git clone --recursive https://github.com/BenQdigiPages/books_app_ios.git
+````
+
+Or you can force update submodule directory when you find it is empty:
+
+````
+git submodule init
+git submodule update
+````
+
 String ID naming convention
 ---------------------------
 
@@ -80,19 +107,4 @@ The `localize.rb` can also export resources to one CSV file, for review or other
 ruby localize.rb --in res --report strings.csv
 ````
 
-Troubleshooting
----------------
-
-If the submodule directory is empty after you clone your project, please try:
-
-````
-git submodule init
-git submodule update
-````
-
-Or you can avoid this problem by add `--recursive` option when you clone the project:
-
-````
-git clone --recursive https://....
-````
 
