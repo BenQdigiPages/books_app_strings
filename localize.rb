@@ -5,7 +5,7 @@
 # This script can be called from an Xcode 'Run Script' build phase at the
 # beginning of the build process, like this:
 #
-# ${PROJECT_DIR}/tool/localize.rb --in ${PROJECT_DIR}/tool/i18n --out ${PROJECT_DIR}/res
+# ${PROJECT_DIR}/i18n/localize.rb --in ${PROJECT_DIR}/i18n/res --out ${PROJECT_DIR}/res
 #
 # What it does is to read Andrord resources and translate it into iOS resources:
 #
@@ -196,9 +196,11 @@ end
 
 def normalize_string(locale, str)
   str = normalize_value(locale, str)
-  str = str.gsub(/(%(\d\$)?)s/, '\1@')
-  str = str.gsub(/(%(\d\$)?),d/, '\1d')
-  return str.gsub(/"/, '\\"')
+  str.gsub!(/^"(.*)"$/, '\1')
+  str.gsub!(/(%(\d\$)?)s/, '\1@')
+  str.gsub!(/(%(\d\$)?),d/, '\1d')
+  str.gsub!(/"/, '\\"')
+  return str
 end
 
 def normalize_csv(locale, str)
