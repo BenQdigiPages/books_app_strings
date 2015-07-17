@@ -145,15 +145,15 @@
 
     <string name="title_all_books">全部書籍</string>
 
-    <string name="sortby_time_new_to_old">依時間新至舊</string>
-    <string name="sortby_time_old_to_new">依時間舊至新</string>
-    <string name="sortby_title">依書名</string>
-    <string name="sortby_author">依作者</string>
-    <string name="sortby_publisher">依出版社</string>
+    <string name="menu_sortby_time_new_to_old">依時間新至舊</string>
+    <string name="menu_sortby_time_old_to_new">依時間舊至新</string>
+    <string name="menu_sortby_title">依書名</string>
+    <string name="menu_sortby_author">依作者</string>
+    <string name="menu_sortby_publisher">依出版社</string>
 
-    <string name="search_bookshelf_hint">書名 / 出版社 / 作者</string>
-    <string name="search_bookshelf_category_all">全部書籍 (%d)</string>
-    <string name="search_bookshelf_category_trial">試閱書籍 (%d)</string>
+    <string name="hint_search_bookshelf">書名 / 出版社 / 作者</string>
+    <string name="title_search_bookshelf_category_all">全部書籍 (%d)</string>
+    <string name="title_search_bookshelf_category_trial">試閱書籍 (%d)</string>
 
     <!-- viewer -->
 
