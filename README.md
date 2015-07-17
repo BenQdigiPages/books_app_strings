@@ -29,11 +29,11 @@ Export to iOS strings
 A ruby script `localize.rb` is available to export Android string resources to iOS, it supports
 the following resource types:
 
-Android type       | iOS type
--------------------|-----------
-**<string>**       | Merge into Localizable.strings
-**<string-array>** | Merge into LocalizableArray.strings
-**<plurals>**      | Merge into Localizable.stringsdict
+Android xml tag  | iOS file
+-----------------|-----------
+**string**       | Merge into Localizable.strings
+**string-array** | Merge into LocalizableArray.strings
+**plurals**      | Merge into Localizable.stringsdict
 
 For every language, Android side may have multiple .xml files, all will be merged into
 single file on iOS. The iOS file will be put into proper language directory, such as Base.lproj
