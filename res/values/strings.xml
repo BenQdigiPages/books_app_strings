@@ -11,6 +11,13 @@
     <string name="btn_not_public">不公開</string>
     <string name="btn_share">分享</string>
     <string name="btn_edit">編輯</string>
+    <string name="btn_login">登入</string>
+    <string name="btn_logout">登出</string>
+    <string name="btn_download">下載</string>
+
+    <string name="hint_epub">EPUB</string>
+    <string name="hint_pdf">PDF</string>
+    <string name="hint_page">頁</string>
 
     <!--
         全部/書籍/雜誌/試閱：書單項目就算沒有書也要存在
@@ -144,6 +151,8 @@
     <!-- bookshelf -->
 
     <string name="title_all_books">全部書籍</string>
+    <string name="title_recommended_books">博客來推薦</string>
+    <string name="title_downloaded_books">已下載書籍</string>
 
     <string name="menu_sortby_time_new_to_old">依時間新至舊</string>
     <string name="menu_sortby_time_old_to_new">依時間舊至新</string>
@@ -155,6 +164,8 @@
     <string name="title_search_bookshelf_category_all">全部書籍 (%d)</string>
     <string name="title_search_bookshelf_category_trial">試閱書籍 (%d)</string>
 
+    <string name="title_books_selected">已選擇 %d 本書</string>
+
     <!-- viewer -->
 
     <string name="title_toc_back_to_store">回到書櫃</string>
@@ -165,7 +176,5 @@
     <string name="msg_ask_delete_bookmarks">確定要清除所選書籤？</string>
     <string name="msg_ask_delete_sentiment">確定要清除此閱讀心得？</string>
     <string name="msg_ask_delete_sentiments">確定要清除所選閱讀心得？</string>
-
-    <string name="hint_page">頁</string>
 
 </resources>

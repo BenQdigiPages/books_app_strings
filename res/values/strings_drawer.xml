@@ -4,28 +4,28 @@
     <string name="drawer_search">搜尋書籍</string>
 
     <string name="drawer_category_books">書櫃</string>
-    <string name="drawer_item_recommend">博客來推薦</string>
-    <string name="drawer_item_monthly">包月書籍</string>
+    <string name="drawer_item_recommended_books">博客來推薦</string>
+    <string name="drawer_item_monthly_subscribed">包月書籍</string>
     <string name="drawer_item_all_books">全部書籍</string>
     <string name="drawer_item_downloaded_books">已下載書籍</string>
 
     <string name="drawer_category_my_reading">我的閱讀</string>
     <string name="drawer_item_sentiment">閱讀心得</string>
-    <string name="drawer_item_notes">畫線筆記</string>
+    <string name="drawer_item_highlights">畫線筆記</string>
     <string name="drawer_item_bookmarks">書籤</string>
 
     <string name="drawer_category_notification">訊息</string>
     <string name="drawer_item_notification">推播通知</string>
-    <string name="drawer_item_announce">最新活動公告</string>
+    <string name="drawer_item_announcement">最新活動公告</string>
 
     <string name="drawer_category_settings">設定</string>
     <string name="drawer_item_account">使用者帳號</string>
-    <string name="drawer_item_settings">偏好設定</string>
+    <string name="drawer_item_preference">偏好設定</string>
     <string name="drawer_item_archive">封存</string>
     <string name="drawer_item_sync">同步</string>
 
     <string name="drawer_category_guide">服務說明</string>
     <string name="drawer_item_about">關於「博客來閱讀」</string>
-    <string name="drawer_item_goto">博客來官網</string>
+    <string name="drawer_item_web">博客來官網</string>
 
 </resources>
