@@ -168,13 +168,13 @@
 
     <!-- viewer -->
 
-    <string name="title_toc_back_to_store">回到書櫃</string>
+    <string name="title_back_to_bookshelf">回到書櫃</string>
 
     <string name="msg_ask_delete_note">確定要清除此劃線筆記？</string>
-    <string name="msg_ask_delete_notes">確定要清除所選劃線筆記？</string>
+    <string name="msg_ask_delete_selected_notes">確定要清除所選劃線筆記？</string>
     <string name="msg_ask_delete_bookmark">確定要清除此書籤？</string>
-    <string name="msg_ask_delete_bookmarks">確定要清除所選書籤？</string>
+    <string name="msg_ask_delete_selected_bookmarks">確定要清除所選書籤？</string>
     <string name="msg_ask_delete_sentiment">確定要清除此閱讀心得？</string>
-    <string name="msg_ask_delete_sentiments">確定要清除所選閱讀心得？</string>
+    <string name="msg_ask_delete_selected_sentiments">確定要清除所選閱讀心得？</string>
 
 </resources>
