@@ -166,6 +166,29 @@
 
     <string name="title_books_selected">已選擇 %d 本書</string>
 
+    <!-- notes -->
+
+    <string name="title_my_sentiments">閱讀心得</string>
+    <string name="title_my_highlights">畫線筆記</string>
+    <string name="title_my_bookmarks">書籤</string>
+
+    <!-- notifications -->
+
+    <string name="title_notification">推播通知</string>
+    <string name="title_announcement">最新活動公告</string>
+
+    <!-- settings -->
+
+    <string name="title_login">使用者帳號</string>
+    <string name="title_preference">偏好設定</string>
+    <string name="title_archive_books">封存</string>
+    <string name="title_syncing">同步</string>
+
+    <!-- about -->
+
+    <string name="title_about">關於「博客來閱讀」</string>
+    <string name="title_home_site">博客來官網</string>
+
     <!-- viewer -->
 
     <string name="title_back_to_bookshelf">回到書櫃</string>
