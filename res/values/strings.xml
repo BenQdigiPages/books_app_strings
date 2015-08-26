@@ -2,6 +2,7 @@
 <resources>
 
     <string name="app_name">"博客來書城"</string>
+    <string name="home_url">http://www.books.com.tw</string>
 
     <!-- generic button label -->
 
