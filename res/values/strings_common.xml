@@ -212,6 +212,9 @@
     <string name="hint_set_twitter">Twitter</string>
     <string name="hint_set_google_plus">Google+</string>
 
+    <string name="hint_use_app_setting">使用官方App設定</string>
+    <string name="hint_use_system_setting">使用系統設定</string>
+
     <string name="title_manage_theme">書櫃風格管理</string>
     <string name="hint_set_theme">更換書櫃風格</string>
 
