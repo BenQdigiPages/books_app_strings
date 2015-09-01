@@ -189,9 +189,22 @@
     <!-- settings -->
 
     <string name="title_login">使用者帳號</string>
-    <string name="title_preference">偏好設定</string>
     <string name="title_archive_books">封存</string>
     <string name="title_syncing">同步</string>
+
+    <!-- preferences -->
+
+    <string name="title_preference">偏好設定</string>
+
+    <string name="title_manage_nickname">暱稱管理</string>
+    <string name="hint_set_nickname">設定暱稱</string>
+    <string name="hint_nickname">暱稱</string>
+
+    <string name="title_manage_social">社群連結管理</string>
+    <string name="hint_set_social">設定各社群網站帳號</string>
+
+    <string name="title_manage_theme">書櫃風格管理</string>
+    <string name="hint_set_theme">更換書櫃風格</string>
 
     <!-- about -->
 
