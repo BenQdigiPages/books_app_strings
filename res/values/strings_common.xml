@@ -177,15 +177,28 @@
 
     <string name="title_books_selected">已選擇 %d 本書</string>
 
-    <!-- notes -->
+    <!-- sentiments -->
 
     <string name="title_my_sentiments">閱讀心得</string>
+
+    <string name="hint_sentiment_date">更新日期：yyyy/MM/dd</string>
+
+    <!-- highlights -->
+
     <string name="title_my_highlights">畫線筆記</string>
+
+    <!-- bookmarks -->
+
     <string name="title_my_bookmarks">書籤</string>
 
     <!-- notifications -->
 
     <string name="title_notification">推播通知</string>
+
+    <string name="hint_today">今日</string>
+    <string name="hint_yesterday">昨日</string>
+    <string name="hint_message_date">yyyy/MM/dd</string>
+
     <string name="title_announcement">最新活動公告</string>
 
     <!-- settings -->
@@ -214,6 +227,9 @@
 
     <string name="hint_use_app_setting">使用官方App設定</string>
     <string name="hint_use_system_setting">使用系統設定</string>
+
+    <string name="btn_install">安裝</string>
+    <string name="btn_open">開啟</string>
 
     <string name="title_manage_theme">書櫃風格管理</string>
     <string name="hint_set_theme">更換書櫃風格</string>
