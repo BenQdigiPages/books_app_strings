@@ -181,11 +181,11 @@
 
     <string name="title_my_sentiments">閱讀心得</string>
 
-    <string name="hint_sentiment_date">更新日期：yyyy/MM/dd</string>
+    <string name="hint_sentiment_date">更新日期 / yyyy-MM-dd</string>
 
     <!-- highlights -->
 
-    <string name="title_my_highlights">畫線筆記</string>
+    <string name="title_my_highlights">劃線筆記</string>
 
     <!-- bookmarks -->
 
@@ -197,7 +197,7 @@
 
     <string name="hint_today">今日</string>
     <string name="hint_yesterday">昨日</string>
-    <string name="hint_message_date">yyyy/MM/dd</string>
+    <string name="hint_message_date">yyyy-MM-dd</string>
 
     <string name="title_announcement">最新活動公告</string>
 
@@ -242,6 +242,18 @@
     <!-- viewer -->
 
     <string name="title_back_to_bookshelf">回到書櫃</string>
+
+    <string name="title_book_readings">我的閱讀</string>
+    <string name="title_book_sentiment">閱讀心得</string>
+    <string name="title_book_highlights">劃線筆記</string>
+    <string name="title_book_bookmarks">書籤</string>
+
+    <string name="title_book_intro">書籍介紹</string>
+    <string name="title_book_info">書籍簡介</string>
+    <string name="title_public_highlights">熱門劃線</string>
+    <string name="title_public_sentiments">心得分享</string>
+
+    <string name="title_others">其他</string>
 
     <string name="msg_ask_delete_note">確定要清除此劃線筆記？</string>
     <string name="msg_ask_delete_selected_notes">確定要清除所選劃線筆記？</string>
