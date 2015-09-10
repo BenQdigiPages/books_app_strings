@@ -181,11 +181,15 @@
 
     <string name="title_my_sentiments">閱讀心得</string>
 
-    <string name="hint_sentiment_date">更新日期 / yyyy-MM-dd</string>
+    <string name="hint_sentiment_date">yyyy-MM-dd</string>
+    <string name="hint_sentiment_footnote">更新日期 / %s</string>
 
     <!-- highlights -->
 
     <string name="title_my_highlights">劃線筆記</string>
+
+    <string name="hint_highlight_date">yyyy-MM-dd</string>
+    <string name="hint_highlight_footnote">%1$s / %2$s</string>
 
     <!-- bookmarks -->
 
