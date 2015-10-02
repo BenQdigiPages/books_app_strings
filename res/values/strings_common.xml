@@ -9,6 +9,7 @@
     <string name="btn_remove">"移除"</string>
     <string name="btn_delete">"刪除"</string>
     <string name="btn_archive">"封存"</string>
+    <string name="btn_confirm">"確定"</string>
     <string name="btn_cancel">"取消"</string>
     <string name="btn_public">公開</string>
     <string name="btn_not_public">不公開</string>
@@ -47,7 +48,7 @@
     <string name="msg_ask_archive">"將所選書籍封存？未來於各行動裝置同步時將不會載入，要重新閱讀，請至電子書櫃解除封存"</string>
     <string name="msg_ask_new_version">"此書有新版本，是否需要更新？提醒您，更新有可能影響原劃線筆記資料對應"</string>
 
-    <string name="msg_dont_msg_ask_me">"不要再問我"</string>
+    <string name="msg_dont_ask_me">"不要再問我"</string>
     <string name="msg_device_space_full">"您的裝置空間已滿，無法下載此書籍，請先釋放空間再繼續下載"</string>
 
     <!--
@@ -143,9 +144,12 @@
 
     <!-- forget password dialog -->
 
-    <string name="title_enter_password">請輸入密碼</string>
-    <string name="btn_forget_password">忘記密碼？</string>
-    <string name="msg_send_password_email">密碼將會寄送於你的認證信箱中</string>
+    <string name="msg_enter_password">輸入密碼</string>
+    <string name="msg_wrong_password">輸入的密碼錯誤</string>
+    <string name="btn_forget_password">忘記密碼</string>
+    <string name="msg_send_password_email">已寄送密碼重設信件至會員信箱</string>
+    <string name="msg_send_password_fail">目前無法寄送密碼重設信件至會員信箱，請稍候再試。</string>
+    <string name="msg_verify_password_fail">目前無法驗證密碼，請稍候再試。</string>
 
     <!-- ask book update  -->
 
