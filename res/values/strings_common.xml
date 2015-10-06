@@ -25,112 +25,12 @@
     <string name="hint_pdf">PDF</string>
     <string name="hint_page">頁</string>
 
-    <!--
-        全部/書籍/雜誌/試閱：書單項目就算沒有書也要存在
-        提示消費者可去選購的提示文字：「您尚未有任何書籍，馬上前往博來試閱、選購，開始閱讀電子書！」
-    -->
-
-    <string name="msg_ask_without_anybook">"您尚未有任何書籍，馬上前往博客來試閱、選購，開始閱讀電子書！"</string>
-    <string name="msg_goto_password_book">"如欲加入書籍至密碼書單，請至電子書櫃全部書單選取"</string>
-
-    <!--
-        個人書單：web有建立APP就出現，沒有書時提示文字：「如欲加入書籍至此書單，請至電子書櫃全部書單選取」
-    -->
-
-    <string name="msg_select_and_add_book">"如欲加入書籍至此書單，請至電子書櫃全部書單選取"</string>
-    <string name="msg_ask_delete_selected_book">"確定要刪除所選試閱書籍？刪除後如需再閱讀，請至博客來收藏"</string>
-
-    <!--
-        提醒視窗文字：「將所選書籍封存？未來於各行動裝置同步時將不會載入，要重新閱讀，請至電子書櫃解除封存」
-        （已下載書籍之文字略有差異，請參考－－－）
-    -->
-
-    <string name="msg_ask_archive">"將所選書籍封存？未來於各行動裝置同步時將不會載入，要重新閱讀，請至電子書櫃解除封存"</string>
-    <string name="msg_ask_new_version">"此書有新版本，是否需要更新？提醒您，更新有可能影響原劃線筆記資料對應"</string>
-
-    <string name="msg_dont_ask_me">"不要再問我"</string>
-    <string name="msg_device_space_full">"您的裝置空間已滿，無法下載此書籍，請先釋放空間再繼續下載"</string>
-
-    <!--
-        提醒視窗文字：「將所選書籍從此裝置移除或封存至電子書櫃？」
-        選項：移除/封存/取消
-        移除 - 將書籍從該裝置移除，移除後書籍還是會在全部書櫃看到未下載
-        封存 - 將書籍放到封存書單，連線後從各裝置的全部書籍及已下載書籍移除
-    -->
-
-    <string name="msg_ask_remove_book">"將所選書籍從此裝置移除或封存至電子書櫃？"</string>
-
-    <!--
-        帶出資訊：您要同步2015/4/23 12:00PM於Rita的Android Device裝置的最新進度嗎？（帶出資訊包含「年月日時分」＋「裝置名稱」）
-        選項：同步/不同步
-        選擇同步：同步最新閱讀頁數進度以及最新畫線筆記等..
-        選擇不同步：維持本機進度與畫線筆記不覆蓋
-    -->
-
-    <string name="msg_ask_sync_latest_progress">"您要同步%1$s於%2$s的%3$s裝置的最新進度嗎？"</string>
-    <string name="msg_ask_delete_note">"確定要刪除此篇閱讀心得？"</string>
-    <string name="msg_ask_delete_bookmark">"確定要刪除所選書籤？"</string>
-
-    <!--
-        收藏btn：web出現，APP不出現
-        點選收藏跳出文字：「試閱本已派送至電子書櫃」
-    -->
-
-    <string name="msg_had_delivered_book">"試閱本已派送至電子書櫃"</string>
-    <string name="msg_ask_goto_store">"您尚未有任何書籍，馬上前往博客來試閱、選購，開始閱讀電子書！"</string>
-
-    <!--
-        執行封存，跳出提醒文字：「確定要將所選書籍封存？未來於各行動裝置同步時將不會載入，要重新閱讀，請至封存書單解除封存」
-        選項：封存/取消
-    -->
-
-    <string name="msg_ask_archive_book">"確定要將所選書籍封存？未來於各行動裝置同步時將不會載入，要重新閱讀，請至封存書單解除封存"</string>
-    <string name="msg_ask_unarchive">"確定要將所選書籍解除封存？解封存後，未來於各行動裝置同步時將會重新載入"</string>
-
-    <!--
-        點選書單「+」可新增個人書單，跳出編輯命名 ，一開始會出現defaul名稱”個人書單”，重新命名後確定，正式建立一個個人書單。
-    -->
-
-    <string name="hint_personal_menu">"個人書單"</string>
-    <string name="msg_ask_add_book">"如欲加入書籍至個人書單，請至全部書單選取"</string>
-
-    <!--
-        刪除(整個)書單提醒：「確定要刪除此書單？刪除後書籍仍可於全部書單中找到」
-    -->
-    <string name="msg_ask_delete_book_menu">"確定要刪除此書單？刪除後書籍仍可於全部書單中找到"</string>
-    <string name="msg_ask_delete_book">"確定要從書單中移除所選書籍？"</string>
-
-    <!--
-        密碼書單無書籍時：「如欲加入書籍至密碼書單，請至全部書單選取」
-    -->
-    <string name="msg_add_password_book">"如欲加入書籍至密碼書單，請至全部書單選取"</string>
-    <string name="msg_trial_empty">"如欲收藏試閱本至試閱書單，請至書籍介紹頁點選試閱收藏"</string>
-
-    <!--
-        按確認提醒文字：「確定要刪除所選試閱書籍？刪除後如需再閱讀，請至博客來收藏」
-        選項：刪除/取消
-    -->
-
-    <string name="msg_ask_delete_trail_book">"確定要刪除所選試閱書籍？刪除後如需再閱讀，請至博客來收藏"</string>
-    <string name="msg_archive_empty">"若您有任何已閱讀完畢的書籍，可至其他書單封存至此，書籍將不會再同步至您的裝置"</string>
-
-    <!--
-        解除封存書單跳出提醒文字：「確定要將所選書籍解除封存？解封存後，未來於各行動裝置同步時將會重新載入」
-    -->
-
-    <string name="msg_ask_unarchive_book">"確定要將所選書籍解除封存？解封存後，未來於各行動裝置同步時將會重新載入"</string>
-    <string name="msg_not_support_pdf_note">"PDF書籍劃線功能，僅開放於博客來閱讀APP使用"</string>
-
-    <!--
-        是否儲存內容變更？
-        離開編輯頁面：跳出提醒視窗「是否儲存內容變更？」
-        選項：儲存/取消/X
-    -->
-
-    <string name="msg_ask_leave_note">"是否儲存內容變更？"</string>
+    <string name="hint_account">帳號</string>
+    <string name="hint_password">密碼</string>
 
     <!-- generic message -->
 
+    <string name="msg_login_failed">請確定您是否連上網路\n目前無法登入</string>
     <string name="msg_no_network">您目前尚未連上網路</string>
     <string name="msg_wait">請稍候...</string>
 
@@ -148,17 +48,26 @@
     <string name="msg_wrong_password">輸入的密碼錯誤</string>
     <string name="btn_forget_password">忘記密碼</string>
     <string name="msg_send_password_email">已寄送密碼重設信件至會員信箱</string>
-    <string name="msg_send_password_fail">目前無法寄送密碼重設信件至會員信箱，請稍候再試。</string>
-    <string name="msg_verify_password_fail">目前無法驗證密碼，請稍候再試。</string>
+    <string name="msg_fail_to_send_password">目前無法寄送密碼重設信件至會員信箱，請稍候再試。</string>
+    <string name="msg_fail_to_verify_password">目前無法驗證密碼，請稍候再試。</string>
 
     <!-- ask book update  -->
 
-    <string name="msg_ask_new_version_book">已有更新版本，可更新閱讀。\n如果更新書籤、劃線註記可能有錯位…</string>
+    <string name="msg_ask_new_version">"此書有新版本，是否需要更新？提醒您，更新有可能影響原劃線筆記資料對應"</string>
+    <string name="msg_dont_ask_me">"不要再問我"</string>
     <string name="msg_refreshing">正在更新，請稍候...</string>
     <string name="btn_refresh">更新</string>
     <string name="btn_no_refresh">不更新</string>
 
     <!-- bookshelf -->
+
+    <string name="msg_ask_goto_store">"您尚未有任何書籍，馬上前往博客來試閱、選購，開始閱讀電子書！"</string>
+    <string name="msg_device_space_full">"您的裝置空間已滿，無法下載此書籍，請先釋放空間再繼續下載"</string>
+    <string name="msg_trial_empty">"如欲收藏試閱本至試閱書單，請至書籍介紹頁點選試閱收藏"</string>
+
+    <string name="msg_ask_archive_books">"將所選書籍封存？未來於各行動裝置同步時將不會載入，要重新閱讀，請至電子書櫃解除封存"</string>
+    <string name="msg_ask_delete_download_books">"確定要刪除所選書籍的下載資料？"</string>
+    <string name="msg_ask_delete_trail_books">"確定要刪除所選試閱書籍？刪除後如需再閱讀，請至博客來收藏"</string>
 
     <string name="title_all_books">全部書籍</string>
     <string name="title_recommended_books">博客來推薦</string>
@@ -174,7 +83,12 @@
     <string name="hint_author">作者</string>
     <string name="hint_file_format">檔案格式</string>
 
-    <!-- search book -->
+    <!-- archive books -->
+
+    <string name="msg_archive_empty">"若您有任何已閱讀完畢的書籍，可至其他書單封存至此，書籍將不會再同步至您的裝置"</string>
+
+    <!-- search books -->
+
     <string name="hint_search_bookshelf">書名 / 出版社 / 作者</string>
     <string name="title_search_bookshelf_category_all">全部書籍 (%d)</string>
     <string name="title_search_bookshelf_category_trial">試閱書籍 (%d)</string>
@@ -222,6 +136,7 @@
     <string name="title_manage_nickname">暱稱管理</string>
     <string name="hint_set_nickname">設定暱稱</string>
     <string name="hint_nickname">暱稱</string>
+    <string name="msg_fail_to_set_nickname">目前無法設定暱稱，請稍候再試。</string>
 
     <string name="title_manage_social">社群連結管理</string>
     <string name="hint_set_social">設定各社群網站帳號</string>
@@ -241,6 +156,8 @@
 
     <string name="title_manage_theme">書櫃風格管理</string>
     <string name="hint_set_theme">更換書櫃風格</string>
+
+    <string name="msg_set_wechat_account">設定WeChat帳號</string>
 
     <!-- about -->
 
@@ -269,5 +186,8 @@
     <string name="msg_ask_delete_selected_bookmarks">確定要清除所選書籤？</string>
     <string name="msg_ask_delete_sentiment">確定要清除此閱讀心得？</string>
     <string name="msg_ask_delete_selected_sentiments">確定要清除所選閱讀心得？</string>
+    <string name="msg_ask_leave_note">"是否儲存內容變更？"</string>
+
+    <string name="msg_fail_to_load_book">目前無法載入書籍，請稍候再試。</string>
 
 </resources>
