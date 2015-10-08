@@ -42,6 +42,9 @@
     <string name="err_io">I/O 錯誤</string>
     <string name="err_json">伺服器資料格式錯誤</string>
 
+    <string name="err_too_many_devices">您已使用過多的裝置，請至電子書櫃刪除不需要的裝置。</string>
+    <string name="err_invalid_device">無效的裝置，請使用官方正版軟體</string>
+
     <!-- forget password dialog -->
 
     <string name="msg_enter_password">輸入密碼</string>
