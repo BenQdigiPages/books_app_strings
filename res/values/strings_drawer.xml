@@ -11,7 +11,7 @@
 
     <string name="drawer_category_my_reading">我的閱讀</string>
     <string name="drawer_item_sentiments">閱讀心得</string>
-    <string name="drawer_item_highlights">畫線筆記</string>
+    <string name="drawer_item_highlights">劃線筆記</string>
     <string name="drawer_item_bookmarks">書籤</string>
 
     <string name="drawer_category_notification">訊息</string>
