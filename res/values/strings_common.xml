@@ -23,7 +23,7 @@
 
     <string name="hint_epub">EPUB</string>
     <string name="hint_pdf">PDF</string>
-    <string name="hint_page">頁</string>
+    <string name="hint_fmt_count">（%d）</string>
 
     <string name="hint_account">帳號</string>
     <string name="hint_password">密碼</string>
@@ -43,7 +43,7 @@
     <string name="err_io">I/O 錯誤</string>
     <string name="err_json">伺服器資料格式錯誤</string>
 
-    <string name="err_too_many_devices">您已使用過多的裝置，請至電子書櫃刪除不需要的裝置。</string>
+    <string name="err_too_many_devices">此帳號已授權五台裝置使用，若欲更換使用裝置，請至電子書櫃設定。</string>
     <string name="err_invalid_device">無效的裝置，請使用官方正版軟體</string>
 
     <!-- forget password dialog -->
@@ -71,7 +71,7 @@
     <string name="msg_trial_empty">"如欲收藏試閱本至試閱書單，請至書籍介紹頁點選試閱收藏"</string>
 
     <string name="err_no_enough_space">空間已滿，無法下載此書籍！</string>
-    <string name="err_load_book">請確定您是否連結網路\n連結網路才能享受閱讀</string>
+    <string name="err_load_data">請確定您是否連結網路\n連結網路才能享受閱讀</string>
 
     <string name="msg_ask_archive_books">"將所選書籍封存？未來於各行動裝置同步時將不會載入，要重新閱讀，請至電子書櫃解除封存"</string>
     <string name="msg_ask_delete_download_books">"確定要從書單中移除所選書籍？"</string>
@@ -80,6 +80,7 @@
     <string name="title_all_books">全部書籍</string>
     <string name="title_recommended_books">博客來推薦</string>
     <string name="title_downloaded_books">已下載書籍</string>
+    <string name="title_books_selected">已選擇 %d 本書</string>
 
     <string name="menu_sortby_time_new_to_old">依時間 (新至舊)</string>
     <string name="menu_sortby_time_old_to_new">依時間 (舊至新)</string>
@@ -97,29 +98,45 @@
 
     <!-- search books -->
 
-    <string name="hint_search_bookshelf">書名 / 出版社 / 作者</string>
-    <string name="title_search_bookshelf_category_all">全部書籍 (%d)</string>
-    <string name="title_search_bookshelf_category_trial">試閱書籍 (%d)</string>
-
-    <string name="title_books_selected">已選擇 %d 本書</string>
+    <string name="hint_search_bookshelf">搜尋 書名／出版社／作者</string>
+    <string name="hint_search_bookshelf_offline">未連線搜尋 書名／出版社／作者</string>
+    <string name="title_search_bookshelf_category_all">全部結果</string>
+    <string name="title_search_bookshelf_category_books">全部書籍</string>
+    <string name="title_search_bookshelf_category_trials">更多試閱</string>
 
     <!-- sentiments -->
 
     <string name="title_my_sentiments">閱讀心得</string>
+    <string name="hint_fmt_sentiment_date">yyyy-MM-dd</string>
+    <string name="hint_fmt_sentiment_footnote">更新日期／%s</string>
 
-    <string name="hint_sentiment_date">yyyy-MM-dd</string>
-    <string name="hint_sentiment_footnote">更新日期 / %s</string>
+    <string name="msg_ask_delete_sentiment">確定要刪除此篇閱讀心得？</string>
+    <string name="msg_ask_leave_without_save">"是否儲存內容變更？"</string>
+
+    <string name="hint_search_sentiment">搜尋 閱讀心得</string>
+    <string name="hint_share_sentiment">我在博客來發表了我的讀書心得</string>
 
     <!-- highlights -->
 
     <string name="title_my_highlights">劃線筆記</string>
+    <string name="title_highlights_selected">已選擇 %d 個劃線筆記</string>
+    <string name="hint_fmt_highlight_date">yyyy-MM-dd</string>
+    <string name="hint_fmt_highlight_footnote">%1$s／第%2$d頁／%3$s</string>
 
-    <string name="hint_highlight_date">yyyy-MM-dd</string>
-    <string name="hint_highlight_footnote">%1$s / %2$s</string>
+    <string name="msg_ask_delete_highlight">確定要刪除所選的劃線筆記？</string>
+
+    <string name="hint_search_highlight">搜尋 劃線筆記</string>
+    <string name="hint_share_highlight">我用「博客來閱讀」分享我的劃線筆記</string>
 
     <!-- bookmarks -->
 
     <string name="title_my_bookmarks">書籤</string>
+    <string name="title_bookmarks_selected">已選擇 %d 個書籤</string>
+    <string name="hint_fmt_bookmark_footnote">%1$s／第%2$d頁</string>
+
+    <string name="msg_ask_delete_bookmark">確定要刪除所選的書籤？</string>
+
+    <string name="hint_search_bookmark">搜尋 書籤</string>
 
     <!-- notifications -->
 
@@ -127,7 +144,7 @@
 
     <string name="hint_today">今日</string>
     <string name="hint_yesterday">昨日</string>
-    <string name="hint_message_date">yyyy-MM-dd</string>
+    <string name="hint_fmt_message_date">yyyy-MM-dd</string>
 
     <string name="title_announcement">最新活動公告</string>
 
@@ -190,13 +207,5 @@
     <string name="title_public_sentiments">心得分享</string>
 
     <string name="title_others">其他</string>
-
-    <string name="msg_ask_delete_note">確定要清除此劃線筆記？</string>
-    <string name="msg_ask_delete_selected_notes">確定要清除所選劃線筆記？</string>
-    <string name="msg_ask_delete_bookmark">確定要清除此書籤？</string>
-    <string name="msg_ask_delete_selected_bookmarks">確定要清除所選書籤？</string>
-    <string name="msg_ask_delete_sentiment">確定要清除此閱讀心得？</string>
-    <string name="msg_ask_delete_selected_sentiments">確定要清除所選閱讀心得？</string>
-    <string name="msg_ask_leave_note">"是否儲存內容變更？"</string>
 
 </resources>
