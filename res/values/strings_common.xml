@@ -24,6 +24,7 @@
     <string name="hint_epub">EPUB</string>
     <string name="hint_pdf">PDF</string>
     <string name="hint_fmt_count">（%d）</string>
+    <string name="hint_fmt_page">第%d頁</string>
 
     <string name="hint_account">帳號</string>
     <string name="hint_password">密碼</string>
@@ -55,6 +56,12 @@
     <string name="err_wrong_password">輸入的密碼錯誤</string>
     <string name="err_send_password">請確定您是否連結網路\n目前無法寄送密碼重設信件至會員信箱</string>
     <string name="err_verify_password">請確定您是否連結網路\n目前無法驗證密碼</string>
+
+    <!-- ask save dialog -->
+
+    <string name="msg_ask_leave_without_save">"是否儲存內容變更？"</string>
+    <string name="btn_save">儲存</string>
+    <string name="btn_giveup">放棄</string>
 
     <!-- ask book update  -->
 
@@ -111,7 +118,6 @@
     <string name="hint_fmt_sentiment_footnote">更新日期／%s</string>
 
     <string name="msg_ask_delete_sentiment">確定要刪除此篇閱讀心得？</string>
-    <string name="msg_ask_leave_without_save">"是否儲存內容變更？"</string>
 
     <string name="hint_search_sentiment">搜尋 閱讀心得</string>
     <string name="hint_share_sentiment">我在博客來發表了我的讀書心得</string>
