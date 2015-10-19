@@ -120,7 +120,7 @@
     <string name="msg_ask_delete_sentiment">確定要刪除此篇閱讀心得？</string>
 
     <string name="hint_search_sentiment">搜尋 閱讀心得</string>
-    <string name="hint_share_sentiment">我在博客來發表了我的讀書心得</string>
+    <string name="hint_fmt_share_sentiment">我在博客來發表了我的讀書心得「％s」</string>
 
     <!-- highlights -->
 
@@ -132,7 +132,7 @@
     <string name="msg_ask_delete_highlight">確定要刪除所選的劃線筆記？</string>
 
     <string name="hint_search_highlight">搜尋 劃線筆記</string>
-    <string name="hint_share_highlight">我用「博客來閱讀」分享我的劃線筆記</string>
+    <string name="hint_fmt_share_highlight">我用「博客來閱讀」分享我的劃線筆記「％s」</string>
 
     <!-- bookmarks -->
 
@@ -174,11 +174,11 @@
     <string name="hint_set_social">設定各社群網站帳號</string>
 
     <string name="title_set_social">各社群網站帳號設定</string>
-    <string name="hint_set_line">Line</string>
-    <string name="hint_set_facebook">Facebook</string>
-    <string name="hint_set_wechat">We Chat</string>
-    <string name="hint_set_twitter">Twitter</string>
-    <string name="hint_set_google_plus">Google+</string>
+    <string name="hint_social_line">Line</string>
+    <string name="hint_social_facebook">Facebook</string>
+    <string name="hint_social_wechat">WeChat</string>
+    <string name="hint_social_twitter">Twitter</string>
+    <string name="hint_social_google_plus">Google+</string>
 
     <string name="hint_use_app_setting">使用官方App設定</string>
     <string name="hint_use_system_setting">使用系統設定</string>
@@ -188,8 +188,6 @@
 
     <string name="title_manage_theme">書櫃風格管理</string>
     <string name="hint_set_theme">更換書櫃風格</string>
-
-    <string name="msg_set_wechat_account">設定WeChat帳號</string>
 
     <!-- about -->
 
