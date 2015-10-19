@@ -20,6 +20,7 @@
 
     <string name="drawer_category_settings">設定</string>
     <string name="drawer_item_account">使用者帳號</string>
+    <string name="drawer_item_fmt_account">帳號：%s</string>
     <string name="drawer_item_preference">偏好設定</string>
     <string name="drawer_item_archive">封存</string>
     <string name="drawer_item_sync">同步</string>

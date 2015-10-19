@@ -156,9 +156,7 @@
 
     <!-- settings -->
 
-    <string name="title_login">使用者帳號</string>
     <string name="title_archive_books">封存</string>
-    <string name="title_syncing">同步</string>
 
     <string name="err_sync">請確定您是否連結網路\n目前無法同步資料</string>
 
@@ -213,5 +211,6 @@
     <string name="title_public_sentiments">心得分享</string>
 
     <string name="title_others">其他</string>
+    <string name="title_syncing">同步</string>
 
 </resources>
