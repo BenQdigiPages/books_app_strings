@@ -211,4 +211,13 @@
     <string name="title_others">其他</string>
     <string name="title_syncing">同步</string>
 
+    <!-- info -->
+
+    <string name="hint_fmt_author">作者：%s</string>
+    <string name="hint_fmt_publisher">出版社：%s</string>
+    <string name="hint_fmt_published_date">出版日期：yyyy-MM-dd</string>
+    <string name="hint_fmt_isbn">ISBN：%s</string>
+    <string name="hint_fmt_book_format">檔案格式：%s</string>
+    <string name="hint_fmt_book_version">版本：%s</string>
+
 </resources>
