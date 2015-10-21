@@ -205,11 +205,16 @@
 
     <string name="title_book_intro">書籍介紹</string>
     <string name="title_book_info">書籍簡介</string>
-    <string name="title_public_highlights">熱門劃線</string>
-    <string name="title_public_sentiments">心得分享</string>
+    <string name="title_shared_highlights">熱門劃線</string>
+    <string name="title_shared_sentiments">心得分享</string>
 
     <string name="title_others">其他</string>
     <string name="title_syncing">同步</string>
+
+    <string name="hint_no_highlights">尚無任何劃線筆記</string>
+    <string name="hint_no_bookmarks">尚無任何書籤</string>
+    <string name="hint_no_shared_highlights">尚無任何熱門劃線</string>
+    <string name="hint_no_shared_sentiments">尚無任何心得分享</string>
 
     <!-- info -->
 
