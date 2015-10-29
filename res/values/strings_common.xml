@@ -47,6 +47,10 @@
     <string name="err_too_many_devices">此帳號已授權五台裝置使用，若欲更換使用裝置，請至電子書櫃設定。</string>
     <string name="err_invalid_device">無效的裝置，請使用官方正版軟體</string>
 
+    <!-- login dialog -->
+
+    <string name="btn_toggle_login">切換登入</string>
+
     <!-- forget password dialog -->
 
     <string name="msg_enter_password">輸入密碼</string>
@@ -194,6 +198,12 @@
     <string name="title_about">關於「博客來閱讀」</string>
     <string name="title_home_site">博客來官網</string>
 
+    <string name="hint_guide_001">條列及封面切換</string>
+    <string name="hint_guide_002">書櫃目錄</string>
+    <string name="hint_guide_003">排序選單</string>
+    <string name="hint_guide_004">書單選擇</string>
+    <string name="hint_guide_005">下載書籍</string>
+
     <!-- viewer -->
 
     <string name="title_back_to_bookshelf">回到書櫃</string>
@@ -218,6 +228,8 @@
 
     <string name="hint_search_content">搜尋 內文</string>
     <string name="title_search_content">內文搜尋</string>
+
+    <string name="hint_fmt_page_indicator">%1$d/%2$d</string>
 
     <!-- info -->
 
