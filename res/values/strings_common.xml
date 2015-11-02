@@ -189,6 +189,7 @@
 
     <string name="btn_install">安裝</string>
     <string name="btn_open">開啟</string>
+    <string name="btn_use">使用</string>
 
     <string name="title_manage_theme">書櫃風格管理</string>
     <string name="hint_set_theme">更換書櫃風格</string>
