@@ -231,6 +231,7 @@
     <string name="title_search_content">內文搜尋</string>
 
     <string name="hint_fmt_page_indicator">%1$d／%2$d</string>
+    <string name="hint_fmt_page_percentage">%1$d%%</string>
 
     <!-- info -->
 
