@@ -101,6 +101,8 @@
     <string name="hint_author">作者</string>
     <string name="hint_file_format">檔案格式</string>
 
+    <string name="hint_fmt_category_button">%s ▼</string>
+
     <!-- archive books -->
 
     <string name="msg_archive_empty">"若您有任何已閱讀完畢的書籍，可至其他書單封存至此，書籍將不會再同步至您的裝置"</string>
@@ -160,6 +162,7 @@
 
     <string name="title_archive_books">封存</string>
 
+    <string name="hint_fmt_sync_time">上次同步 yyyy-MM-dd HH:mm</string>
     <string name="err_sync">請確定您是否連結網路\n目前無法同步資料</string>
 
     <!-- preferences -->
