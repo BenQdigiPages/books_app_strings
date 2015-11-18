@@ -26,9 +26,6 @@
     <string name="hint_fmt_count">（%d）</string>
     <string name="hint_fmt_page">第%d頁</string>
 
-    <string name="hint_account">帳號</string>
-    <string name="hint_password">密碼</string>
-
     <!-- generic message -->
 
     <string name="msg_no_network">您目前尚未連上網路</string>
@@ -79,7 +76,8 @@
 
     <string name="msg_ask_goto_store">"您尚未有任何書籍，馬上前往博客來試閱、選購，開始閱讀電子書！"</string>
     <string name="msg_device_space_full">"您的裝置空間已滿，無法下載此書籍，請先釋放空間再繼續下載"</string>
-    <string name="msg_trial_empty">"如欲收藏試閱本至試閱書單，請至書籍介紹頁點選試閱收藏"</string>
+    <string name="msg_trial_empty">"如欲收藏試閱本至試閱書單，請至博客來推薦試閱電子書"</string>
+    <string name="msg_private_empty">如欲加入書籍至密碼書單，請至電子書櫃全部書單選取</string>
 
     <string name="err_no_enough_space">空間已滿，無法下載此書籍！</string>
     <string name="err_load_data">請確定您是否連結網路\n連結網路才能享受閱讀</string>
@@ -199,11 +197,19 @@
     <string name="title_about">關於「博客來閱讀」</string>
     <string name="title_home_site">博客來官網</string>
 
+    <string name="hint_about_faq">使用FAQ</string>
+    <string name="hint_about_contact">聯繫我們</string>
+    <string name="hint_about_license">使用者條款</string>
+    <string name="hint_about_guide">操作示意</string>
+    <string name="hint_about_info">一般資訊</string>
+
     <string name="hint_guide_001">條列及封面切換</string>
     <string name="hint_guide_002">書櫃目錄</string>
     <string name="hint_guide_003">排序選單</string>
     <string name="hint_guide_004">書單選擇</string>
     <string name="hint_guide_005">下載書籍</string>
+
+    <string name="hint_calculating">計算中...</string>
 
     <!-- viewer -->
 
