@@ -3,6 +3,7 @@
 
     <string name="app_name">"博客來書城"</string>
     <string name="home_url">http://www.books.com.tw</string>
+    <string name="book_item_url">http://www.books.com.tw/products/%s</string>
 
     <!-- generic button label -->
 
@@ -111,6 +112,7 @@
 
     <string name="hint_search_bookshelf">搜尋 書名／出版社／作者</string>
     <string name="hint_search_bookshelf_offline">未連線搜尋 書名／出版社／作者</string>
+    <string name="hint_search_bookshelf_empty">未連線搜尋書名／出版社／作者，建議您連線以搜尋出更多書單結果</string>
     <string name="title_search_bookshelf_category_all">全部結果</string>
     <string name="title_search_bookshelf_category_books">全部書籍</string>
     <string name="title_search_bookshelf_category_trials">更多試閱</string>
@@ -124,7 +126,7 @@
     <string name="msg_ask_delete_sentiment">確定要刪除此篇閱讀心得？</string>
 
     <string name="hint_search_sentiment">搜尋 閱讀心得</string>
-    <string name="hint_fmt_share_sentiment">我在博客來發表了我的讀書心得「％s」</string>
+    <string name="hint_fmt_share_sentiment">我在博客來發表了我的讀書心得「%1$s」：\n\n%2$s\n</string>
 
     <!-- highlights -->
 
@@ -136,7 +138,7 @@
     <string name="msg_ask_delete_highlight">確定要刪除所選的劃線筆記？</string>
 
     <string name="hint_search_highlight">搜尋 劃線筆記</string>
-    <string name="hint_fmt_share_highlight">我用「博客來閱讀」分享我的劃線筆記「％s」</string>
+    <string name="hint_fmt_share_highlight">我用「博客來閱讀」分享我的劃線筆記「%1$s」：\n\n『%2$s』\n\n%3$s\n</string>
 
     <!-- bookmarks -->
 
@@ -175,25 +177,11 @@
 
     <string name="err_set_nickname">請確定您是否連結網路\n目前無法設定暱稱</string>
 
-    <string name="title_manage_social">社群連結管理</string>
-    <string name="hint_set_social">設定各社群網站帳號</string>
-
-    <string name="title_set_social">各社群網站帳號設定</string>
-    <string name="hint_social_line">Line</string>
-    <string name="hint_social_facebook">Facebook</string>
     <string name="hint_social_wechat">WeChat</string>
-    <string name="hint_social_twitter">Twitter</string>
-    <string name="hint_social_google_plus">Google+</string>
-
-    <string name="hint_use_app_setting">使用官方App設定</string>
-    <string name="hint_use_system_setting">使用系統設定</string>
-
-    <string name="btn_install">安裝</string>
-    <string name="btn_open">開啟</string>
-    <string name="btn_use">使用</string>
 
     <string name="title_manage_theme">書櫃風格管理</string>
     <string name="hint_set_theme">更換書櫃風格</string>
+    <string name="btn_use">使用</string>
 
     <!-- about -->
 
@@ -241,6 +229,10 @@
 
     <string name="hint_fmt_page_indicator">%1$d／%2$d</string>
     <string name="hint_fmt_page_percentage">%1$d%%</string>
+
+    <string name="title_trial_intro">試閱介紹</string>
+    <string name="btn_goto_book">前往書籍介紹</string>
+    <string name="hint_fmt_share_trial">我用「博客來閱讀」推薦試閱本「%1$s」</string>
 
     <!-- info -->
 
