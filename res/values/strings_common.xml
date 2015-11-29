@@ -42,8 +42,13 @@
     <string name="err_io">I/O 錯誤</string>
     <string name="err_json">伺服器資料格式錯誤</string>
 
-    <string name="err_too_many_devices">此帳號已授權五台裝置使用，若欲更換使用裝置，請至電子書櫃設定。</string>
-    <string name="err_invalid_device">無效的裝置，請使用官方正版軟體</string>
+    <string name="err_id_err_000">發生內部錯誤「參數錯誤」，請聯絡客服</string>
+    <string name="err_id_err_100">帳號密碼有誤，請重新登入</string>
+    <string name="err_id_err_201">此帳號已授權五台裝置使用，若欲更換使用裝置，請至電子書櫃設定</string>
+    <string name="err_id_err_202">發生內部錯誤「裝置錯誤」，請聯絡客服</string>
+    <string name="err_id_err_203">登入流程錯誤，請重新登入，或聯絡客服</string>
+    <string name="err_id_err_207">您已透過其他瀏覽器連線登入，如需繼續閱讀請再重新登入</string>
+    <string name="err_id_err_999">發生內部錯誤，請聯絡客服</string>
 
     <!-- login dialog -->
 
