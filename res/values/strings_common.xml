@@ -87,6 +87,7 @@
 
     <string name="err_no_enough_space">空間已滿，無法下載此書籍！</string>
     <string name="err_load_data">請確定您是否連結網路\n連結網路才能享受閱讀</string>
+    <string name="err_open_book">無法開啟所指定的書籍</string>
 
     <string name="msg_ask_archive_books">"將所選書籍封存？未來於各行動裝置同步時將不會載入，要重新閱讀，請至電子書櫃解除封存"</string>
     <string name="msg_ask_delete_download_books">"確定要從書單中移除所選書籍？"</string>
@@ -179,7 +180,6 @@
     <string name="title_manage_nickname">暱稱管理</string>
     <string name="hint_set_nickname">設定暱稱</string>
     <string name="hint_nickname">暱稱</string>
-
     <string name="err_set_nickname">請確定您是否連結網路\n目前無法設定暱稱</string>
 
     <string name="hint_social_wechat">WeChat</string>
@@ -187,6 +187,8 @@
     <string name="title_manage_theme">書櫃風格管理</string>
     <string name="hint_set_theme">更換書櫃風格</string>
     <string name="btn_use">使用</string>
+    <string name="err_download_theme">請確定您是否連結網路\n目前無法下載書櫃風格</string>
+    <string name="err_apply_theme">無法更換書櫃風格，請重新下載或聯絡客服</string>
 
     <!-- about -->
 
