@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">"博客來書城"</string>
+    <string name="app_name">"博客來電子書"</string>
     <string name="home_url">http://www.books.com.tw</string>
     <string name="book_item_url">http://www.books.com.tw/products/%s</string>
 
@@ -35,7 +35,7 @@
     <!-- generic error message -->
 
     <string name="err_not_login">尚未登入</string>
-    <string name="err_login">請確定您是否連結網路\n目前無法登入</string>
+    <string name="err_login">目前無法登入，請檢查是否為網路問題</string>
 
     <string name="err_socket_timeout">連線逾時</string>
     <string name="err_socket">網路錯誤</string>
@@ -50,6 +50,15 @@
     <string name="err_id_err_207">您已透過其他瀏覽器連線登入，如需繼續閱讀請再重新登入</string>
     <string name="err_id_err_999">發生內部錯誤，請聯絡客服</string>
 
+    <string name="err_drm_download">可下載時間已過，此書不提供下載</string>
+    <string name="err_drm_reading">可閱讀時間已過，此書不提供閱讀</string>
+    <string name="err_drm_share">因版權因素，此書不提供分享功能</string>
+    <string name="err_drm_publish">因版權因素，此書不提供公開功能</string>
+    <string name="err_drm_like">因版權因素，此書不提供按讚功能</string>
+    <string name="err_drm_highlight">因版權因素，此書不提供劃線筆記功能</string>
+    <string name="err_drm_bookmark">因版權因素，此書不提供書籤功能</string>
+    <string name="err_drm_sentiment">因版權因素，此書不提供閱讀心得功能</string>
+
     <!-- login dialog -->
 
     <string name="btn_toggle_login">切換登入</string>
@@ -61,7 +70,7 @@
     <string name="msg_send_password_email">已寄送密碼重設信件至會員信箱</string>
 
     <string name="err_wrong_password">輸入的密碼錯誤</string>
-    <string name="err_send_password">請確定您是否連結網路\n目前無法寄送密碼重設信件至會員信箱</string>
+    <string name="err_send_password">目前無法寄送密碼重設信件至會員信箱</string>
     <string name="err_verify_password">請確定您是否連結網路\n目前無法驗證密碼</string>
 
     <!-- ask save dialog -->
@@ -84,6 +93,7 @@
     <string name="msg_device_space_full">"您的裝置空間已滿，無法下載此書籍，請先釋放空間再繼續下載"</string>
     <string name="msg_trial_empty">"如欲收藏試閱本至試閱書單，請至博客來推薦試閱電子書"</string>
     <string name="msg_private_empty">如欲加入書籍至密碼書單，請至電子書櫃全部書單選取</string>
+    <string name="msg_category_empty">如欲加入書籍至此書單，請至電子書櫃全部書單選取</string>
 
     <string name="err_no_enough_space">空間已滿，無法下載此書籍！</string>
     <string name="err_load_data">請確定您是否連結網路\n連結網路才能享受閱讀</string>
@@ -144,7 +154,7 @@
     <string name="msg_ask_delete_highlight">確定要刪除所選的劃線筆記？</string>
 
     <string name="hint_search_highlight">搜尋 劃線筆記</string>
-    <string name="hint_fmt_share_highlight">我用「博客來閱讀」分享我的劃線筆記「%1$s」：\n\n『%2$s』\n\n%3$s\n</string>
+    <string name="hint_fmt_share_highlight">我用「博客來電子書」分享我的劃線筆記「%1$s」：\n\n『%2$s』\n\n%3$s\n</string>
 
     <!-- bookmarks -->
 
@@ -180,19 +190,19 @@
     <string name="title_manage_nickname">暱稱管理</string>
     <string name="hint_set_nickname">設定暱稱</string>
     <string name="hint_nickname">暱稱</string>
-    <string name="err_set_nickname">請確定您是否連結網路\n目前無法設定暱稱</string>
+    <string name="err_set_nickname">目前無法設定暱稱</string>
 
     <string name="hint_social_wechat">WeChat</string>
 
     <string name="title_manage_theme">書櫃風格管理</string>
     <string name="hint_set_theme">更換書櫃風格</string>
     <string name="btn_use">使用</string>
-    <string name="err_download_theme">請確定您是否連結網路\n目前無法下載書櫃風格</string>
+    <string name="err_download_theme">目前無法下載書櫃風格</string>
     <string name="err_apply_theme">無法更換書櫃風格，請重新下載或聯絡客服</string>
 
     <!-- about -->
 
-    <string name="title_about">關於「博客來閱讀」</string>
+    <string name="title_about">關於博客來電子書</string>
     <string name="title_home_site">博客來官網</string>
 
     <string name="hint_about_faq">使用FAQ</string>
@@ -201,8 +211,8 @@
     <string name="hint_about_guide">操作示意</string>
     <string name="hint_about_info">一般資訊</string>
 
-    <string name="hint_guide_001">條列及封面切換</string>
-    <string name="hint_guide_002">書櫃目錄</string>
+    <string name="hint_guide_001">書櫃目錄</string>
+    <string name="hint_guide_002">條列及封面切換</string>
     <string name="hint_guide_003">排序選單</string>
     <string name="hint_guide_004">書單選擇</string>
     <string name="hint_guide_005">下載書籍</string>
@@ -239,7 +249,7 @@
 
     <string name="title_trial_intro">試閱介紹</string>
     <string name="btn_goto_book">前往書籍介紹</string>
-    <string name="hint_fmt_share_trial">我用「博客來閱讀」推薦試閱本「%1$s」</string>
+    <string name="hint_fmt_share_trial">我用「博客來電子書」推薦試閱本「%1$s」</string>
 
     <!-- info -->
 

@@ -26,7 +26,7 @@
     <string name="drawer_item_sync">同步</string>
 
     <string name="drawer_category_about">服務說明</string>
-    <string name="drawer_item_about">關於「博客來閱讀」</string>
+    <string name="drawer_item_about">關於博客來電子書</string>
     <string name="drawer_item_web">博客來官網</string>
 
 </resources>
