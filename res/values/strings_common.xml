@@ -79,7 +79,7 @@
 
     <string name="msg_ask_leave_without_save">"是否儲存內容變更？"</string>
     <string name="btn_save">儲存</string>
-    <string name="btn_giveup">放棄</string>
+    <string name="btn_giveup">取消</string>
 
     <!-- ask book update  -->
 
@@ -92,9 +92,9 @@
     <!-- bookshelf -->
 
     <string name="msg_ask_goto_store">"您尚未有任何書籍，馬上前往博客來試閱、選購，開始閱讀電子書！"</string>
-    <string name="msg_trial_empty">"如欲收藏試閱本至試閱書單，請至博客來推薦試閱電子書"</string>
+    <string name="msg_trial_empty">"您尚未有任何書籍，馬上前往博客來試閱、選購，開始閱讀電子書！"</string>
     <string name="msg_private_empty">如欲加入書籍至密碼書單，請至電子書櫃全部書單選取</string>
-    <string name="msg_category_empty">如欲加入書籍至此書單，請至電子書櫃全部書單選取</string>
+    <string name="msg_category_empty">您尚未有任何書籍，馬上前往博來試閱、選購，開始閱讀電子書！</string>
 
     <string name="err_no_enough_space">您的裝置空間已滿，無法下載此書籍，請先釋放空間再繼續下載</string>
     <string name="err_load_data">請確定您是否連結網路\n連結網路才能享受閱讀</string>
@@ -102,7 +102,7 @@
 
     <string name="msg_ask_archive_books">"將所選書籍封存？未來於各行動裝置同步時將不會載入，要重新閱讀，請至電子書櫃解除封存"</string>
     <string name="msg_ask_delete_download_books">"確定將所選書籍刪除？未來要重新閱讀，請至全部書籍重新下載"</string>
-    <string name="msg_ask_delete_trail_books">"確定要刪除所選試閱書籍？刪除後如需再閱讀，請至博客來收藏"</string>
+    <string name="msg_ask_delete_trail_books">"確定要刪除所選試閱書籍？"</string>
 
     <string name="title_all_books">全部書籍</string>
     <string name="title_recommended_books">博客來推薦</string>
@@ -152,6 +152,7 @@
     <string name="title_fmt_highlights_selected">已選擇 %d 筆劃線筆記</string>
     <string name="hint_fmt_highlight_date">yyyy-MM-dd</string>
     <string name="hint_fmt_highlight_footnote">%1$s／第%2$d頁／%3$s</string>
+    <string name="hint_fmt_highlight_footnote_lite">%1$s／%2$s</string>
 
     <string name="msg_ask_delete_highlight">確定要刪除所選的劃線筆記？</string>
 
@@ -159,12 +160,14 @@
     <string name="hint_search_highlight_header">劃線筆記 搜尋「%1$s」%2$d筆</string>
 
     <string name="hint_fmt_share_highlight">我用「博客來電子書」分享我的劃線筆記「%1$s」：\n\n『%2$s』\n\n%3$s\n</string>
+    <string name="hint_fmt_share_trial_highlight">我用「博客來閱讀」推薦試閱本「%1$s」：\n\n『%2$s』\n\n%3$s\n</string>
 
     <!-- bookmarks -->
 
     <string name="title_my_bookmarks">書籤</string>
     <string name="title_fmt_bookmarks_selected">已選擇 %d 筆書籤</string>
     <string name="hint_fmt_bookmark_footnote">%1$s／第%2$d頁</string>
+    <string name="hint_fmt_bookmark_footnote_lite">%1$s</string>
 
     <string name="msg_ask_delete_bookmark">確定要刪除所選的書籤？</string>
 
