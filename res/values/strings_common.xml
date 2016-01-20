@@ -144,6 +144,8 @@
     <string name="hint_search_sentiment">搜尋 閱讀心得</string>
     <string name="hint_search_sentiment_header">閱讀心得 搜尋「%1$s」%2$d筆</string>
 
+    <string name="hint_no_search_text_book">找不到相關關鍵字</string>
+
     <string name="hint_fmt_share_sentiment">我在博客來發表了我的讀書心得「%1$s」：\n\n%2$s\n</string>
 
     <!-- highlights -->
