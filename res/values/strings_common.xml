@@ -129,7 +129,7 @@
 
     <string name="hint_search_bookshelf">搜尋 書名／出版社／作者</string>
     <string name="hint_search_bookshelf_offline">未連線搜尋 書名／出版社／作者</string>
-    <string name="hint_search_bookshelf_empty">未連線搜尋書名／出版社／作者，建議您連線以搜尋出更多書單結果</string>
+    <string name="hint_search_bookshelf_count">搜尋到0筆</string>
     <string name="title_search_bookshelf_category_all">全部結果</string>
     <string name="title_search_bookshelf_category_books">全部書籍</string>
     <string name="title_search_bookshelf_category_trials">更多試閱</string>
