@@ -227,7 +227,9 @@
     <string name="hint_guide_003">排序選單</string>
     <string name="hint_guide_004">書單選擇</string>
     <string name="hint_guide_005">下載書籍</string>
-
+    <string name="hint_guide_006">封存或刪除書籍</string>
+    <string name="hint_guide_007">切換到最近閱讀的30本書</string>
+    
     <string name="hint_calculating">計算中...</string>
 
     <!-- viewer -->
