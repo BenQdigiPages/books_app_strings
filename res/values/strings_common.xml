@@ -169,6 +169,7 @@
 
     <string name="title_my_bookmarks">書籤</string>
     <string name="title_fmt_bookmarks_selected">已選擇 %d 筆書籤</string>
+    <string name="title_fmt_sentiments_selected">已選擇 %d 筆心得</string>
     <string name="hint_fmt_bookmark_footnote">%1$s／第%2$d頁</string>
     <string name="hint_fmt_bookmark_footnote_lite">%1$s</string>
 
