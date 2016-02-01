@@ -97,7 +97,7 @@
     <string name="msg_category_empty">您尚未有任何書籍，馬上前往博來試閱、選購，開始閱讀電子書！</string>
 
     <string name="err_no_enough_space">您的裝置空間已滿，無法下載此書籍，請先釋放空間再繼續下載</string>
-    <string name="err_load_data">請確定您是否連結網路\n連結網路才能享受閱讀</string>
+    <string name="err_load_data">請連結網路才能進行書單更新與閱讀進度同步</string>
     <string name="err_open_book">無法開啟所指定的書籍</string>
 
     <string name="msg_ask_archive_books">"將所選書籍封存？未來於各行動裝置同步時將不會載入，要重新閱讀，請至電子書櫃解除封存"</string>
