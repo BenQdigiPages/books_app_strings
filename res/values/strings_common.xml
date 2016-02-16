@@ -147,7 +147,7 @@
 
     <string name="hint_no_search_text_book">找不到相關關鍵字</string>
 
-    <string name="hint_fmt_share_sentiment">我在博客來發表了我的讀書心得「%1$s」\n\n</string>
+    <string name="hint_fmt_share_sentiment">我在博客來發表了我的讀書心得「%1$s」：\n\n%2$s\n</string>
     <string name="hint_fmt_share_trial_sentiment">我用「博客來電子書」推薦試閱本「%1$s」\n\n</string>
 
     <!-- highlights -->
@@ -164,7 +164,7 @@
     <string name="hint_search_highlight_header">劃線筆記 搜尋「%1$s」%2$d筆</string>
 
     <string name="hint_fmt_share_highlight">我用「博客來電子書」分享我的劃線筆記「%1$s」：\n\n『%2$s』\n\n%3$s\n</string>
-    <string name="hint_fmt_share_trial_highlight">我用「博客來電子書」推薦試閱本「%1$s」：\n\n『%2$s』\n\n%3$s\n</string>
+    <string name="hint_fmt_share_trial_highlight">我用「博客來電子書」推薦試閱本「%1$s」\n\n</string>
 
     <!-- bookmarks -->
 
