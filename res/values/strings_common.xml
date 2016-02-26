@@ -102,6 +102,7 @@
 
     <string name="msg_ask_archive_books">"將所選書籍封存？未來於各行動裝置同步時將不會載入，要重新閱讀，請至電子書櫃解除封存"</string>
     <string name="msg_ask_delete_download_books">"確定將所選書籍刪除？未來要重新閱讀，請至全部書籍重新下載"</string>
+    <string name="msg_ask_delete_download_trail_books">"確定要刪除所選試閱書籍？"</string>
     <string name="msg_ask_delete_trail_books">"確定要刪除所選試閱書籍？刪除後如需再閱讀，請至博客來收藏"</string>
     <string name="msg_ask_cancel_edit">"確定取消編輯？"</string>
 
