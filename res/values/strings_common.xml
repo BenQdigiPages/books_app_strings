@@ -91,9 +91,9 @@
 
     <!-- bookshelf -->
 
-    <string name="msg_ask_goto_store">"如欲加入書籍至此書單,請至電子書櫃全部書單選取"</string>
+    <string name="msg_ask_goto_store">"如欲加入書籍至此書單,請至電子書櫃已購買書籍選取"</string>
     <string name="msg_trial_empty">"您尚未有任何書籍，馬上前往博客來試閱、選購，開始閱讀電子書！"</string>
-    <string name="msg_private_empty">如欲加入書籍至密碼書單，請至電子書櫃全部書單選取</string>
+    <string name="msg_private_empty">如欲加入書籍至密碼書單，請至電子書櫃已購買書籍選取</string>
     <string name="msg_category_empty">您尚未有任何書籍，馬上前往博來試閱、選購，開始閱讀電子書！</string>
 
     <string name="err_no_enough_space">您的裝置空間已滿，無法下載此書籍，請先釋放空間再繼續下載</string>
@@ -101,12 +101,12 @@
     <string name="err_open_book">無法開啟所指定的書籍</string>
 
     <string name="msg_ask_archive_books">"將所選書籍封存？未來於各行動裝置同步時將不會載入，要重新閱讀，請至電子書櫃解除封存"</string>
-    <string name="msg_ask_delete_download_books">"確定將所選書籍刪除？未來要重新閱讀，請至全部書籍重新下載"</string>
+    <string name="msg_ask_delete_download_books">"確定將所選書籍刪除？未來要重新閱讀，請至我的書籍重新下載"</string>
     <string name="msg_ask_delete_download_trail_books">"確定要刪除所選試閱書籍？"</string>
     <string name="msg_ask_delete_trail_books">"確定要刪除所選試閱書籍？刪除後如需再閱讀，請至博客來收藏"</string>
     <string name="msg_ask_cancel_edit">"確定取消編輯？"</string>
 
-    <string name="title_all_books">全部書籍</string>
+    <string name="title_all_books">我的書籍</string>
     <string name="title_recommended_books">博客來推薦</string>
     <string name="title_downloaded_books">已下載書籍</string>
     <string name="title_fmt_books_selected">已選擇 %d 本書</string>
@@ -132,7 +132,7 @@
     <string name="hint_search_bookshelf_offline">未連線搜尋 書名／出版社／作者</string>
     <string name="hint_search_bookshelf_count">搜尋到0筆</string>
     <string name="title_search_bookshelf_category_all">全部結果</string>
-    <string name="title_search_bookshelf_category_books">全部書籍</string>
+    <string name="title_search_bookshelf_category_books">我的書籍</string>
     <string name="title_search_bookshelf_category_trials">更多試閱</string>
 
     <!-- sentiments -->
