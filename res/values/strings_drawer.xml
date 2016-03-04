@@ -6,7 +6,7 @@
     <string name="drawer_category_books">書櫃</string>
     <string name="drawer_item_recommended_books">博客來推薦</string>
     <string name="drawer_item_subscribed_books">包月書籍</string>
-    <string name="drawer_item_all_books">全部書籍</string>
+    <string name="drawer_item_all_books">我的書籍</string>
     <string name="drawer_item_downloaded_books">已下載書籍</string>
 
     <string name="drawer_category_my_reading">我的閱讀</string>
