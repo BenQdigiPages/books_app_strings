@@ -134,6 +134,7 @@
     <string name="title_search_bookshelf_category_all">全部結果</string>
     <string name="title_search_bookshelf_category_books">我的書籍</string>
     <string name="title_search_bookshelf_category_trials">更多試閱</string>
+    <string name="hint_search_bookshelf_n_count"> (搜尋到%d筆)</string>
 
     <!-- sentiments -->
 
