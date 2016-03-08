@@ -83,7 +83,7 @@
 
     <!-- ask book update  -->
 
-    <string name="msg_ask_new_version">"此書有新版本，是否需要更新？提醒您，更新有可能影響原劃線筆記資料對應"</string>
+    <string name="msg_ask_new_version">"此書有新版本，是否需要更新？提醒您，更新有可能影響原劃線書籤定位"</string>
     <string name="msg_dont_ask_me">不更新，不要再問我</string>
     <string name="msg_refreshing">正在更新，請稍候...</string>
     <string name="btn_refresh">更新</string>
