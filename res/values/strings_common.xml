@@ -231,9 +231,9 @@
     <string name="hint_about_guide">操作示意</string>
     <string name="hint_about_info">一般資訊</string>
 
-    <string name="hint_guide_001">書櫃目錄</string>
-    <string name="hint_guide_002">條列及封面切換</string>
-    <string name="hint_guide_003">排序選單</string>
+    <string name="hint_guide_001">書櫃切換、搜尋及各項功能</string>
+    <string name="hint_guide_002">條列及封面顯示切換</string>
+    <string name="hint_guide_003">排序選擇</string>
     <string name="hint_guide_004">書單選擇</string>
     <string name="hint_guide_005">下載書籍</string>
     <string name="hint_guide_006">封存或刪除書籍</string>
