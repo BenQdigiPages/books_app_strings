@@ -91,10 +91,10 @@
 
     <!-- bookshelf -->
 
-    <string name="msg_ask_goto_store">"如欲加入書籍至此書單,請至電子書櫃已購買書籍選取"</string>
+    <string name="msg_ask_goto_store">"您尚未有任何書籍，馬上前往博客來試閱、選購，開始閱讀電子書！"</string>
     <string name="msg_trial_empty">"您尚未有任何書籍，馬上前往博客來試閱、選購，開始閱讀電子書！"</string>
-    <string name="msg_private_empty">如欲加入書籍至密碼書單，請至電子書櫃已購買書籍選取</string>
-    <string name="msg_category_empty">您尚未有任何書籍，馬上前往博來試閱、選購，開始閱讀電子書！</string>
+    <string name="msg_private_empty">如欲加入書籍至密碼書單，請至已購買書籍選取！</string>
+    <string name="msg_category_empty">如欲加入書籍至個人書單，請至已購買書籍選取！</string>
     <string name="msg_download_empty">尚未下載任何書籍</string>
     <string name="msg_recent_empty">您尚未閱讀任何書籍</string>
     
