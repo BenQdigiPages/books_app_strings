@@ -186,6 +186,9 @@
 
     <string name="hint_search_bookmark">搜尋 書籤</string>
     <string name="hint_search_bookmark_header">書籤 搜尋「%1$s」%2$d筆</string>
+    
+    <string name="msg_jamp_bookmark">此書尚未下載，請至我的書籍下載</string>
+
 
     <!-- notifications -->
 
