@@ -113,8 +113,11 @@
     <string name="title_downloaded_books">已下載書籍</string>
     <string name="title_fmt_books_selected">已選擇 %d 本書</string>
 
-    <string name="menu_sortby_time_new_to_old">依時間 (近至遠)</string>
-    <string name="menu_sortby_time_old_to_new">依時間 (遠至近)</string>
+    <string name="menu_download_sortby_time_new_to_old">依時間 (近至遠)</string>
+    <string name="menu_download_sortby_time_old_to_new">依時間 (遠至近)</string>
+    <string name="menu_sortby_time_new_to_old">依時間 (新至舊)</string>
+    <string name="menu_sortby_time_old_to_new">依時間 (舊至新)</string>
+
     <string name="menu_sortby_title">依書名</string>
     <string name="menu_sortby_author">依作者</string>
     <string name="menu_sortby_publisher">依出版社</string>
