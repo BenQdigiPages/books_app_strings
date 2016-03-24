@@ -89,6 +89,12 @@
     <string name="msg_refreshing">正在更新，請稍候...</string>
     <string name="btn_refresh">更新</string>
     <string name="btn_no_refresh">不更新</string>
+    
+    <!-- ask Rank 4 -->
+    <string name="msg_ask_bookshelf_rank4">此為限制級商品，請確定您已滿18歲方可下載</string>
+    <string name="btn_rank4_already18">已滿18歲</string>
+    <string name="btn_rank4_not18">未滿18歲</string>
+
 
     <!-- bookshelf -->
 
@@ -130,7 +136,7 @@
 
     <!-- archive books -->
 
-    <string name="msg_archive_empty">"若您有任何已閱讀完畢的書籍，可至其他書單封存至此，書籍將不會再同步至您的裝置"</string>
+    <string name="msg_archive_empty">若您有任何已閱讀完畢的書籍，可至其他書單封存至此，書籍將不會再同步至您的裝置</string>
 
     <!-- search books -->
 
