@@ -51,6 +51,7 @@
     <string name="err_id_err_202">發生內部錯誤「裝置錯誤」，請聯絡客服</string>
     <string name="err_id_err_203">登入流程錯誤，請重新登入，或聯絡客服</string>
     <string name="err_id_err_207">您已透過其他瀏覽器連線登入，如需繼續閱讀請再重新登入</string>
+    <string name="err_id_err_210">請重新登入</string>
     <string name="err_id_err_999">發生內部錯誤，請聯絡客服</string>
 
     <string name="err_drm_download">可下載時間已過，此書不提供下載</string>
