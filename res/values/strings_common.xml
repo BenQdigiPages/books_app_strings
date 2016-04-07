@@ -181,8 +181,9 @@
     <string name="hint_search_highlight">搜尋 劃線筆記</string>
     <string name="hint_search_highlight_header">劃線筆記 搜尋「%1$s」%2$d筆</string>
 
-    <string name="hint_fmt_share_highlight">我用「博客來電子書」分享我的劃線筆記「%1$s」：\n\n『%2$s』\n\n%3$s\n</string>
-    <string name="hint_fmt_share_trial_highlight">我用「博客來電子書」推薦試閱本「%1$s」\n\n</string>
+    <string name="hint_fmt_share_highlight">分享《%1$s》的劃線筆記(博客來電子書)：\n\n『%2$s』\n\n%3$s \n\n%4$s\n</string>
+
+    <string name="hint_fmt_share_trial_highlight">分享《%1$s》的試閱本(博客來電子書)「\n\n %2$s」\n</string>
     
     <string name="msg_jamp_highlight">此書尚未下載，請至我的書籍下載</string>
 
