@@ -162,8 +162,9 @@
 
     <string name="hint_no_search_text_book">找不到相關關鍵字</string>
 
-    <string name="hint_fmt_share_sentiment">我在博客來發表了我的讀書心得「%1$s」：\n\n%2$s\n</string>
-    <string name="hint_fmt_share_trial_sentiment">我用「博客來電子書」推薦試閱本「%1$s」\n\n</string>
+    <string name="hint_fmt_share_sentiment">分享《%1$s》的閱讀心得(博客來電子書)：\n\n%2$s\n</string>
+
+    <string name="hint_fmt_share_trial_sentiment">分享《%1$s》的試閱本(博客來電子書)\n\n</string>
     
     <string name="msg_jamp_sentiment">此書尚未下載，請至我的書籍下載</string>
 
