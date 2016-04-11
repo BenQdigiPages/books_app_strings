@@ -155,7 +155,7 @@
     <string name="hint_fmt_sentiment_date">yyyy-MM-dd</string>
     <string name="hint_fmt_sentiment_footnote">更新日期／%s</string>
 
-    <string name="msg_ask_delete_sentiment">確定要刪除此篇閱讀心得？</string>
+    <string name="msg_ask_delete_sentiment">確定要刪除所選的閱讀心得？</string>
 
     <string name="hint_search_sentiment">搜尋 閱讀心得</string>
     <string name="hint_search_sentiment_header">閱讀心得 搜尋「%1$s」%2$d筆</string>
