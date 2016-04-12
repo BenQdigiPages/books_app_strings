@@ -289,7 +289,8 @@
 
     <string name="title_trial_intro">試閱介紹</string>
     <string name="btn_goto_book">前往書籍介紹</string>
-    <string name="hint_fmt_share_trial">我用「博客來電子書」推薦試閱本「%1$s」</string>
+    <string name="hint_fmt_share_trial">分享《%1$s》的試閱本(博客來電子書)</string>
+
 
     <string name="msg_fmt_sync_progress">您要同步 yyyy-MM-dd HH:mm 的最新閱讀進度嗎？</string>
 
