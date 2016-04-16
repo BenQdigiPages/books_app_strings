@@ -156,6 +156,8 @@
     <string name="hint_fmt_sentiment_footnote">更新日期／%s</string>
 
     <string name="msg_ask_delete_sentiment">確定要刪除所選的閱讀心得？</string>
+    <string name="msg_sentiment_5000">心得編輯上限為5000字</string>
+    <string name="msg_jamp_sentiment">此書尚未下載，請至我的書籍下載</string>
 
     <string name="hint_search_sentiment">搜尋 閱讀心得</string>
     <string name="hint_search_sentiment_header">閱讀心得 搜尋「%1$s」%2$d筆</string>
@@ -166,7 +168,6 @@
 
     <string name="hint_fmt_share_trial_sentiment">分享《%1$s》的試閱本(博客來電子書)\n\n</string>
     
-    <string name="msg_jamp_sentiment">此書尚未下載，請至我的書籍下載</string>
 
 
     <!-- highlights -->
