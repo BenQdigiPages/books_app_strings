@@ -32,7 +32,7 @@
     <!-- generic message -->
 
     <string name="msg_no_network">您目前尚未連上網路</string>
-    <string name="msg_isServerShutdown">你所在的網路，無法連結到博客來的電子書服務</string>
+    <string name="msg_isServerShutdown">你所在的網路,無法連結到博客來的電子書服務，將改為離線模式</string>
     <string name="msg_wait">請稍候...</string>
 
     <!-- generic error message -->
