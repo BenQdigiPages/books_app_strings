@@ -66,6 +66,10 @@
     <!-- login dialog -->
 
     <string name="btn_toggle_login">切換登入</string>
+    
+    <!-- ask logout dialog -->
+    
+    <string name="msg_ask_logout">"登出後將同時清空您已下載在裝置裡的書籍，下次登入需重新連線下載"</string>
 
     <!-- forget password dialog -->
 
