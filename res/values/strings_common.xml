@@ -201,6 +201,7 @@
     <string name="title_fmt_sentiments_selected">已選擇 %d 筆心得</string>
     <string name="hint_fmt_bookmark_footnote">%1$s／第%2$d頁</string>
     <string name="hint_fmt_bookmark_footnote_lite">%1$s</string>
+    <string name="hint_fmt_bookmark_no_chapterPage">無章節</string>
 
     <string name="msg_ask_delete_bookmark">確定要刪除所選的書籤？</string>
 
