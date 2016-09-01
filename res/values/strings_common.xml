@@ -171,7 +171,7 @@
 
     <string name="hint_fmt_share_sentiment">分享《%1$s》的閱讀心得(博客來電子書)：\n\n%2$s\n</string>
 
-    <string name="hint_fmt_share_trial_sentiment">分享《%1$s》的試閱本(博客來電子書)\n\n</string>
+    <string name="hint_fmt_share_trial_sentiment">分享《%1$s》的試閱本(博客來電子書)\n\n%2$s\n</string>
     
 
 
