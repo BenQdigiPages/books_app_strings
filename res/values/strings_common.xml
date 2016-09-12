@@ -171,7 +171,7 @@
 
     <string name="hint_fmt_share_sentiment">分享《%1$s》的閱讀心得(博客來電子書)：\n\n%2$s\n</string>
 
-    <string name="hint_fmt_share_trial_sentiment">分享《%1$s》的試閱本(博客來電子書)\n\n%2$s\n</string>
+    <string name="hint_fmt_share_trial_sentiment">分享《%1$s》的試閱本(博客來電子書)\n</string>
     
 
 
@@ -190,7 +190,7 @@
 
     <string name="hint_fmt_share_highlight">分享《%1$s》的劃線筆記(博客來電子書)：\n\n『%2$s』\n\n%3$s \n</string>
 
-    <string name="hint_fmt_share_trial_highlight">分享《%1$s》的試閱本(博客來電子書)「\n\n %2$s」\n</string>
+    <string name="hint_fmt_share_trial_highlight">分享《%1$s》的試閱本(博客來電子書)\n</string>
     
     <string name="msg_jamp_highlight">此書尚未下載，請至我的書籍下載</string>
 
