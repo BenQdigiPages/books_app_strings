@@ -287,6 +287,7 @@
     <string name="hint_no_bookmarks">尚無任何書籤</string>
     <string name="hint_no_shared_highlights">尚無任何熱門劃線</string>
     <string name="hint_no_shared_sentiments">尚無任何心得分享</string>
+    <string name="hint_no_books">尚無任何書籍</string>
 
     <string name="hint_search_content">搜尋 內文</string>
     <string name="title_search_content">內文搜尋</string>
